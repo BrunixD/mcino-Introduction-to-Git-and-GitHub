@@ -12,6 +12,5 @@ Input:
 Output
    simple interest = p*t*r
 ```
-Added a commit
 
-_© 2022 XYZ, Inc._
+_© 2025 XYZ, Inc._
